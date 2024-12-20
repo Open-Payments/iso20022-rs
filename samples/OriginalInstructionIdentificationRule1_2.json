@@ -1,0 +1,104 @@
+{
+  "$value": {
+    "RsltnOfInvstgtn": {
+      "Assgnmt": {
+        "Id": "Id",
+        "Assgnr": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              }
+            }
+          }
+        },
+        "Assgne": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              }
+            }
+          }
+        },
+        "CreDtTm": "2020-04-20T12:30:00+01:00"
+      },
+      "Sts": {
+        "Conf": "CNCL"
+      },
+      "CxlDtls": [
+        {
+          "TxInfAndSts": [
+            {
+              "CxlStsId": "CxlStsId",
+              "RslvdCase": {
+                "Id": "Id",
+                "Cretr": {
+                  "Agt": {
+                    "FinInstnId": {
+                      "BICFI": "TESTCNVTXXX",
+                      "ClrSysMmbId": {
+                        "ClrSysId": {
+                          "Cd": "ATBLZ"
+                        },
+                        "MmbId": "MmbId"
+                      }
+                    }
+                  }
+                }
+              },
+              "OrgnlGrpInf": {
+                "OrgnlMsgId": "4+8Vuox7SO2/miOkJ:BvJIvGU+J09yQ?O",
+                "OrgnlMsgNmId": "qXDkrD6+2-e",
+                "OrgnlCreDtTm": "2020-06-21T10:37:00+05:30"
+              },
+              "OrgnlInstrId": "Orgnl/Instructri",
+              "OrgnlEndToEndId": "OrgnlEndToEndId",
+              "OrgnlTxId": "OrgnlTxId",
+              "OrgnlClrSysRef": "OrgnlClrSysRef",
+              "OrgnlUETR": "d116962e-d3d5-4732-bdf9-1de9be99e2da",
+              "CxlStsRsnInf": [
+                {
+                  "Orgtr": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "Dept": "Dept",
+                      "SubDept": "SubDept",
+                      "Room": "Room",
+                      "PstCd": "PstCd",
+                      "TwnNm": "TwnNm",
+                      "TwnLctnNm": "TwnLctnNm",
+                      "DstrctNm": "DstrctNm",
+                      "CtrySubDvsn": "CtrySubDvsn",
+                      "Ctry": "SG"
+                    },
+                    "Id": {
+                      "OrgId": {
+                        "LEI": "74370027F0X7YDR8AQ33"
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  },
+                  "Rsn": {
+                    "Cd": "NOOR"
+                  },
+                  "AddtlInf": [
+                    "om)1"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "$value": {
+    "BkToCstmrDbtCdtNtfctn": {
+      "GrpHdr": {
+        "MsgId": "BANKINLOCHK10000",
+        "CreDtTm": "2013-09-05T15:07:24.614+05:30",
+        "OrgnlBizQry": {
+          "MsgId": "BANKINLOCHK10",
+          "CreDtTm": "2013-09-05T15:07:24.614+05:30"
+        }
+      },
+      "Ntfctn": [
+        {
+          "Id": "Id",
+          "CreDtTm": "2013-09-18T16:44:00.113+05:30",
+          "CpyDplctInd": "COPY",
+          "Acct": {
+            "Id": {
+              "IBAN": "AD1200012030200359100100"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm"
+          },
+          "TxsSummry": {
+            "TtlNtriesPerBkTxCd": [
+              {
+                "BkTxCd": {
+                  "Prtry": {
+                    "Cd": "COIN",
+                    "Issr": "Issr"
+                  }
+                }
+              }
+            ]
+          },
+          "Ntry": [
+            {
+              "NtryRef": "Entry Ref",
+              "Amt": {
+                "Ccy": "INR",
+                "$value": 100.0
+              },
+              "CdtDbtInd": "CRDT",
+              "Sts": {
+                "Cd": "BOOK"
+              },
+              "BkTxCd": {
+                "Domn": {
+                  "Cd": "CODE",
+                  "Fmly": {
+                    "Cd": "CODE",
+                    "SubFmlyCd": "CODE"
+                  }
+                },
+                "Prtry": {
+                  "Cd": "COIN",
+                  "Issr": "Issr"
+                }
+              },
+              "NtryDtls": [
+                {
+                  "TxDtls": [
+                    {
+                      "Refs": {
+                        "InstrId": "Instr/Id"
+                      },
+                      "Amt": {
+                        "Ccy": "INR",
+                        "$value": 143.0
+                      },
+                      "CdtDbtInd": "CRDT",
+                      "RltdDts": {
+                        "TxDtTm": "2013-09-18T16:44:00.113+05:30"
+                      },
+                      "FinInstrmId": {
+                        "ISIN": "AZBBBCCCDDD1",
+                        "Desc": "AZBBBCCCDDD1"
+                      },
+                      "RtrInf": {
+                        "Rsn": {
+                          "Cd": "NARR"
+                        },
+                        "AddtlInf": [
+                          "Value1"
+                        ]
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

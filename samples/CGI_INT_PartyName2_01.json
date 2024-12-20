@@ -1,0 +1,347 @@
+{
+  "$value": {
+    "CstmrCdtTrfInitn": {
+      "GrpHdr": {
+        "MsgId": "/3ON",
+        "CreDtTm": "2021-04-29T11:25:17.770",
+        "NbOfTxs": "1",
+        "InitgPty": {
+          "Nm": "Nm",
+          "PstlAdr": {
+            "BldgNb": "BldgNb",
+            "BldgNm": "BldgNm",
+            "Flr": "Flr",
+            "PstBx": "PstBx",
+            "Room": "Room",
+            "PstCd": "PstCd",
+            "TwnNm": "TwnNm",
+            "DstrctNm": "DstrctNm",
+            "Ctry": "IN"
+          },
+          "Id": {
+            "OrgId": {
+              "Othr": [
+                {
+                  "Id": "Id",
+                  "SchmeNm": {
+                    "Prtry": "Prtry"
+                  },
+                  "Issr": "Issr"
+                },
+                {
+                  "Id": "Id",
+                  "SchmeNm": {
+                    "Prtry": "Prtry"
+                  }
+                }
+              ]
+            }
+          },
+          "CtctDtls": {
+            "NmPrfx": "MIKS",
+            "PhneNb": "+75-)-4(3",
+            "MobNb": "+7--68465)099--87+-8092+69319265",
+            "FaxNb": "+1-664(41(21-9273-4+348728(3259",
+            "EmailAdr": "EmailAdr",
+            "EmailPurp": "EmailPurp",
+            "JobTitl": "JobTitl",
+            "Rspnsblty": "Rspnsblty",
+            "PrefrdMtd": "LETT"
+          }
+        },
+        "FwdgAgt": {
+          "FinInstnId": {
+            "BICFI": "TESTCNVT",
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "ATBLZ"
+              },
+              "MmbId": "MmbId"
+            },
+            "LEI": "O1UQN93F3MSTFJDU4D11"
+          }
+        }
+      },
+      "PmtInf": [
+        {
+          "PmtInfId": "PmtInfId",
+          "PmtMtd": "TRF",
+          "ReqdExctnDt": {
+            "Dt": "2021-04-29"
+          },
+          "Dbtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "Dept": "Dept",
+              "SubDept": "SubDept",
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "DstrctNm": "DstrctNm",
+              "Ctry": "IN"
+            },
+            "Id": {
+              "OrgId": {
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    }
+                  },
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    }
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "HN"
+          },
+          "DbtrAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "Id",
+                "Issr": "Issr"
+              }
+            },
+            "Ccy": "USD",
+            "Nm": "Nm"
+          },
+          "DbtrAgt": {
+            "FinInstnId": {
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VK9JL1K3K0HX2GANFP28",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "NE"
+              }
+            }
+          },
+          "DbtrAgtAcct": {
+            "Id": {
+              "IBAN": "AD1200012030200359100100"
+            },
+            "Tp": {
+              "Prtry": "Prtry"
+            },
+            "Nm": "Nm"
+          },
+          "InstrForDbtrAgt": "InstrForDbtrAgt",
+          "ChrgsAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "Id"
+              }
+            }
+          },
+          "ChrgsAcctAgt": {
+            "FinInstnId": {
+              "ClrSysMmbId": {
+                "MmbId": "MmbId"
+              },
+              "LEI": "E1ZF0IPOGPOMM6ZB8S21",
+              "Nm": "Nm",
+              "Othr": {
+                "Id": "Id"
+              }
+            }
+          },
+          "CdtTrfTxInf": [
+            {
+              "PmtId": {
+                "InstrId": "InstrId",
+                "EndToEndId": "EndToEndId",
+                "UETR": "2fe5342b-abbd-45e3-8da9-18da96b35f97"
+              },
+              "Amt": {
+                "EqvtAmt": {
+                  "Amt": {
+                    "Ccy": "INR",
+                    "$value": 970507463.38
+                  },
+                  "CcyOfTrf": "USD"
+                }
+              },
+              "UltmtDbtr": {
+                "Nm": "Nm",
+                "Id": {
+                  "OrgId": {}
+                },
+                "CtryOfRes": "NU"
+              },
+              "IntrmyAgt1": {
+                "FinInstnId": {
+                  "BICFI": "TESTCNVT"
+                }
+              },
+              "IntrmyAgt2": {
+                "FinInstnId": {
+                  "ClrSysMmbId": {
+                    "ClrSysId": {
+                      "Cd": "ATBLZ"
+                    },
+                    "MmbId": "MmbId"
+                  },
+                  "Nm": "Nm"
+                }
+              },
+              "IntrmyAgt2Acct": {
+                "Id": {
+                  "Othr": {
+                    "Id": "Id",
+                    "Issr": "Issr"
+                  }
+                },
+                "Ccy": "USD",
+                "Nm": "Nm"
+              },
+              "IntrmyAgt3": {
+                "FinInstnId": {
+                  "ClrSysMmbId": {
+                    "ClrSysId": {
+                      "Cd": "ATBLZ"
+                    },
+                    "MmbId": "MmbId"
+                  },
+                  "Nm": "Nm"
+                }
+              },
+              "IntrmyAgt3Acct": {
+                "Id": {
+                  "IBAN": "AD1200012030200359100100"
+                },
+                "Nm": "Nm"
+              },
+              "CdtrAgt": {
+                "FinInstnId": {
+                  "PstlAdr": {
+                    "TwnNm": "TwnNm",
+                    "Ctry": "US"
+                  }
+                }
+              },
+              "CdtrAgtAcct": {
+                "Id": {
+                  "IBAN": "AD1200012030200359100100"
+                },
+                "Tp": {
+                  "Cd": "CISH"
+                },
+                "Nm": "Nm",
+                "Prxy": {
+                  "Id": "Id"
+                }
+              },
+              "Cdtr": {
+                "Nm": "Nm",
+                "PstlAdr": {
+                  "Ctry": "IN",
+                  "AdrLine": [
+                    "AdrLine"
+                  ]
+                }
+              },
+              "UltmtCdtr": {
+                "Nm": "Nm",
+                "PstlAdr": {
+                  "BldgNb": "BldgNb",
+                  "BldgNm": "BldgNm",
+                  "Flr": "Flr",
+                  "PstBx": "PstBx",
+                  "Room": "Room",
+                  "PstCd": "PstCd",
+                  "TwnNm": "TwnNm",
+                  "DstrctNm": "DstrctNm",
+                  "Ctry": "IN"
+                },
+                "Id": {
+                  "OrgId": {
+                    "Othr": [
+                      {
+                        "Id": "Id",
+                        "SchmeNm": {
+                          "Prtry": "Prtry"
+                        },
+                        "Issr": "Issr"
+                      },
+                      {
+                        "Id": "Id",
+                        "SchmeNm": {
+                          "Cd": "BANK"
+                        }
+                      }
+                    ]
+                  }
+                },
+                "CtryOfRes": "US"
+              },
+              "InstrForCdtrAgt": [
+                {
+                  "Cd": "PHOB"
+                },
+                {
+                  "Cd": "CHQB"
+                }
+              ],
+              "RgltryRptg": [
+                {
+                  "DbtCdtRptgInd": "CRED",
+                  "Authrty": {}
+                },
+                {
+                  "DbtCdtRptgInd": "CRED",
+                  "Dtls": [
+                    {
+                      "Dt": "2021-04-29",
+                      "Amt": {
+                        "Ccy": "INR",
+                        "$value": 1040165046.06
+                      },
+                      "Inf": [
+                        "Value",
+                        "Value"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "RmtInf": {
+                "Strd": [
+                  {
+                    "CdtrRefInf": {
+                      "Tp": {
+                        "CdOrPrtry": {
+                          "Prtry": "Prtry"
+                        },
+                        "Issr": "Issr"
+                      }
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

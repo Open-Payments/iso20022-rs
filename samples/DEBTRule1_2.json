@@ -1,0 +1,965 @@
+{
+  "$value": {
+    "FIToFICstmrCdtTrf": {
+      "GrpHdr": {
+        "MsgId": "A4JV)j1iTJpA90xrEG/-AsR/c/Ed2hZ",
+        "CreDtTm": "2010-10-18T12:30:00+01:00",
+        "NbOfTxs": "1",
+        "SttlmInf": {
+          "SttlmMtd": "INDA",
+          "SttlmAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "USD",
+            "Nm": "o4ywXIQjGYpdS",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "InstgRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "ISIAXBKKU2T",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "4F1tfC1"
+              },
+              "LEI": "NPT51I3QZKU7BWYHLA99",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "InstgRmbrsmntAgtAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "9j4e38)-",
+                "SchmeNm": {
+                  "Prtry": "bYh3)pJV36?F4K9+GXHQihW7"
+                },
+                "Issr": "ckM2G)d4pB7C"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "USD",
+            "Nm": "tlli7Cusxcigf6lp2QF2Yi48v8/-x+D3o,KzOLYl-Tz",
+            "Prxy": {
+              "Tp": {
+                "Prtry": "7073"
+              },
+              "Id": "Id"
+            }
+          },
+          "InstdRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "5wMDw3qt/GRAG25BX"
+              },
+              "LEI": "ECF06LHZZP4Y0BFN7570",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "InstdRmbrsmntAgtAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "USD",
+            "Nm": "cnTPw4(?UEyyvDc NqoF:nD8iXd",
+            "Prxy": {
+              "Tp": {
+                "Prtry": "oT:J-NXfmJyTd+apbz5aE"
+              },
+              "Id": "Id"
+            }
+          },
+          "ThrdRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "f.iidAuFu'JK7-PNJX2?a"
+              },
+              "LEI": "WX85ON6HTYN9RQH5GM37",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "KH"
+              }
+            }
+          },
+          "ThrdRmbrsmntAgtAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Prtry": "+m3 svhgfrb:z"
+            },
+            "Ccy": "USD",
+            "Nm": "5mjJC q2pc1Jy(fOc9Wc)c7 xKxRiS.uSQZ?'(5ix)JiP'IkG0UvWb:r?hqAXQWpK,",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          }
+        }
+      },
+      "CdtTrfTxInf": [
+        {
+          "PmtId": {
+            "InstrId": "vi-l'zjT9xLC",
+            "EndToEndId": "yHEiChD 3I1npPO.k,5w.9mg?hf",
+            "TxId": ")7BMW",
+            "UETR": "a59befaa-8799-4699-88cd-8f4135642dec",
+            "ClrSysRef": "Tv6?a)RzcsXx-jy"
+          },
+          "PmtTpInf": {
+            "InstrPrty": "HIGH",
+            "ClrChanl": "RTGS",
+            "SvcLvl": [
+              {
+                "Cd": "BKTR"
+              },
+              {
+                "Cd": "BKTR"
+              }
+            ],
+            "LclInstrm": {
+              "Prtry": ",:l?9QRBNS k+OIgv3soYy,F4MAI/mlzn"
+            },
+            "CtgyPurp": {
+              "Cd": "BONU"
+            }
+          },
+          "IntrBkSttlmAmt": {
+            "Ccy": "INR",
+            "$value": 0.0
+          },
+          "IntrBkSttlmDt": "2020-03-24",
+          "SttlmPrty": "NORM",
+          "SttlmTmIndctn": {
+            "DbtDtTm": "2010-10-18T12:30:00+01:00",
+            "CdtDtTm": "2010-10-18T12:30:00+01:00"
+          },
+          "InstdAmt": {
+            "Ccy": "INR",
+            "$value": 0.0
+          },
+          "XchgRate": 1.79765539,
+          "ChrgBr": "DEBT",
+          "ChrgsInf": [
+            {
+              "Amt": {
+                "Ccy": "INR",
+                "$value": 116.0
+              },
+              "Agt": {
+                "FinInstnId": {
+                  "BICFI": "TESTCONV",
+                  "ClrSysMmbId": {
+                    "ClrSysId": {
+                      "Cd": "ATBLZ"
+                    },
+                    "MmbId": "6X2"
+                  }
+                }
+              }
+            }
+          ],
+          "PrvsInstgAgt1": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "6X2"
+              },
+              "LEI": "61WTJAIE0ZGJTMO4B406",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "PrvsInstgAgt1Acct": {
+            "Id": {
+              "Othr": {
+                "Id": "qUSSqoRW7a",
+                "SchmeNm": {
+                  "Cd": "AIIN"
+                },
+                "Issr": "JBL(EO+yzx9RfUR"
+              }
+            },
+            "Tp": {
+              "Prtry": "iOL1ouxOUqL nr9KG1,05kobc"
+            },
+            "Ccy": "BGN",
+            "Nm": "7IS.hxG(l",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "PrvsInstgAgt2": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "FjQyUvEF6+te4:7OmbV31+.ptuB"
+              },
+              "LEI": "IM20577K2IFQ74UUL256",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "PrvsInstgAgt2Acct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Prtry": "BAG9VYyE6hl4cP,SFZO7N1(s"
+            },
+            "Ccy": "INR",
+            "Nm": "-Pt5DE",
+            "Prxy": {
+              "Tp": {
+                "Prtry": "JSh+?HbiCQs5rVuQc5"
+              },
+              "Id": "Id"
+            }
+          },
+          "PrvsInstgAgt3": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "kf24gO2vEyYR9?QCaI4KdBCfUka"
+              },
+              "LEI": "E8A27QTOC3AAO0GSTO18",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "PrvsInstgAgt3Acct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Prtry": "V(P"
+            },
+            "Ccy": "INR",
+            "Nm": "Di8WtNC:QcCDbvg6cpp(Ow.BGhMBX1S6y7",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "InstgAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "2,sWA."
+              },
+              "LEI": "M3C2CQUOSOTBNHLYU912"
+            }
+          },
+          "InstdAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "26Gr9YcHJ xn w"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          },
+          "IntrmyAgt1": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "y3Pg(Apem"
+              },
+              "LEI": "2F3K1H5TSFUJA8XIMG08",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "IntrmyAgt1Acct": {
+            "Id": {
+              "Othr": {
+                "Id": "Ea)80Iy1I64TOq7",
+                "SchmeNm": {
+                  "Cd": "AIIN"
+                },
+                "Issr": "zyVAPD2x7a0rVaLgnESQyyPL,0lUA1xu,V"
+              }
+            },
+            "Tp": {
+              "Prtry": "tN.gJV(fUNPkM/XK9WVaINLLWP9"
+            },
+            "Ccy": "INR",
+            "Nm": "r+nlO+ Q(812Lkzex'QDvGHqy+woN.-gDw ?Zrq/I.b/",
+            "Prxy": {
+              "Tp": {
+                "Prtry": "3irWZ+A.8+lU'PGaTN:k?ltXhGL5Z"
+              },
+              "Id": "Id"
+            }
+          },
+          "IntrmyAgt2": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "nkMHaGDqaq)qwg"
+              },
+              "LEI": "89ZCBU68ULM4JWTC4859",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "IntrmyAgt2Acct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "g.:t73T)kEYzIk'LT",
+            "Prxy": {
+              "Tp": {
+                "Prtry": "K'n"
+              },
+              "Id": "Id"
+            }
+          },
+          "IntrmyAgt3": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "GsADr'eAHPSiFhx5:5pKyv"
+              },
+              "LEI": "267H31RC9AND56EWZC06",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "IntrmyAgt3Acct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Prtry": "okCCB)DYyXCO3Q?T0wVC+Dob3fAR"
+            },
+            "Ccy": "INR",
+            "Nm": "6X+-1S1t1C:M0hom xzOL:'LT8fti?z X1PP",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "UltmtDbtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "Dept": "Dept",
+              "SubDept": "SubDept",
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "IN"
+            },
+            "Id": {
+              "PrvtId": {
+                "DtAndPlcOfBirth": {
+                  "BirthDt": "2020-03-24",
+                  "PrvcOfBirth": "PrvcOfBirth",
+                  "CityOfBirth": "CityOfBirth",
+                  "CtryOfBirth": "TK"
+                },
+                "Othr": [
+                  {
+                    "Id": "tjXSg0",
+                    "SchmeNm": {
+                      "Prtry": "A"
+                    },
+                    "Issr": ",gT2(p6h5OLhSCxhSTg.P"
+                  },
+                  {
+                    "Id": ",V6+x",
+                    "SchmeNm": {
+                      "Cd": "ARNU"
+                    },
+                    "Issr": "+sLm8zfZ,gros"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "InitgPty": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "Dept": "Dept",
+              "SubDept": "SubDept",
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "IN"
+            },
+            "Id": {
+              "PrvtId": {
+                "DtAndPlcOfBirth": {
+                  "BirthDt": "2020-03-24",
+                  "PrvcOfBirth": "PrvcOfBirth",
+                  "CityOfBirth": "CityOfBirth",
+                  "CtryOfBirth": "IN"
+                },
+                "Othr": [
+                  {
+                    "Id": "z8VzsMe2Wx:V+UAluHhO-SL3e8OX(",
+                    "SchmeNm": {
+                      "Cd": "ARNU"
+                    },
+                    "Issr": "qop:UcbrNA-WvM++R Q704AnQZ"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "FO"
+          },
+          "Dbtr": {
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCNVT",
+                "LEI": "YXTHZVOGLZM95IBRLV34",
+                "Othr": [
+                  {
+                    "Id": "Dd,zl",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  },
+                  {
+                    "Id": "xN0+5P)' cq5l JXOdpZ)9A.,2",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "Px-2Ar8XEpF80J'4,'DY)"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "DbtrAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": ".pTIUDUb1"
+                },
+                "Issr": "vKHMC5n9D6upYncqfNo+:avGOcaiQlOPyh"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "yQeMSFF36vo+18YDb9-B1KM077Ga/6xx'uUHEp6J )lq-z'T8Rn8LOwMWzhFAmb",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "DbtrAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "8Vr+h"
+              },
+              "LEI": "732D71RFF41621GQSH95",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            }
+          },
+          "DbtrAgtAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "JvQ.eY'XGA",
+                "SchmeNm": {
+                  "Prtry": "0UBS( /dh3C4++iWbrJ2m MlMK e8"
+                },
+                "Issr": "7FcGvBSpGW C:FR6qsEmulrx"
+              }
+            },
+            "Tp": {
+              "Prtry": "xUjlu7-"
+            },
+            "Ccy": "INR",
+            "Nm": "axkL",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "CdtrAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "9KZTjgxyL1Bd7pijAR"
+              },
+              "LEI": "SS4KEPFNFAFR6TVMRR55",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "Dept": "Dept",
+                "SubDept": "SubDept",
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "IN"
+              }
+            },
+            "BrnchId": {
+              "Id": "kUK?/jHt7L7rE5j,j0"
+            }
+          },
+          "CdtrAgtAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "HhcTNkD9++E-H+GXF",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "Cdtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "Dept": "Dept",
+              "SubDept": "SubDept",
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "IN"
+            },
+            "Id": {
+              "PrvtId": {
+                "DtAndPlcOfBirth": {
+                  "BirthDt": "2020-03-24",
+                  "PrvcOfBirth": "PrvcOfBirth",
+                  "CityOfBirth": "CityOfBirth",
+                  "CtryOfBirth": "TG"
+                },
+                "Othr": [
+                  {
+                    "Id": "8DxH3O",
+                    "SchmeNm": {
+                      "Prtry": "yE"
+                    },
+                    "Issr": "STyBUQYjjWk"
+                  },
+                  {
+                    "Id": "6",
+                    "SchmeNm": {
+                      "Prtry": "Ws+R1ao"
+                    },
+                    "Issr": "2nbv8uOs'9?yS"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "IN"
+          },
+          "CdtrAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": ",xcX.N,O/kO'.nA3Fi0Ir,4GVvDJ)-k2/OM+HYxs x",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "UltmtCdtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "Dept": "Dept",
+              "SubDept": "SubDept",
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "IN"
+            },
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "QPVSGLAC",
+                "LEI": "CLWG7UCJ4EOM3SCMV180",
+                "Othr": [
+                  {
+                    "Id": "vFaQ-/RXRM8Riuchk)Ou",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "sEj'MR(3PwxeBfQV20e'yaA/Yf"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "IN"
+          },
+          "InstrForCdtrAgt": [
+            {
+              "Cd": "TELB",
+              "InstrInf": "J?o,d'EQD)6IS?5O?aO?hY(Oj:7lm/Be:aNbaVmI.)5gHCFDhvFRXoRR6Dy:kJ?-HrHki(O?kEA1"
+            }
+          ],
+          "InstrForNxtAgt": [
+            {
+              "InstrInf": "m6 6Qk9dTti9tbE"
+            },
+            {
+              "InstrInf": "zwQ-ln:f6-k1djlKI+4ob("
+            }
+          ],
+          "Purp": {
+            "Cd": "ACCT"
+          },
+          "RgltryRptg": [
+            {
+              "DbtCdtRptgInd": "DEBT",
+              "Authrty": {
+                "Nm": "K:(Q0HfgHc V9EM1d0MBbpWFt.pWd3xdvb-BZ56 HyvPoqMpBUTxxmaktB5BayRYb'11oTh1V.hll56oGy6rBR2jw7fFn+lMo1",
+                "Ctry": "US"
+              },
+              "Dtls": [
+                {
+                  "Tp": "5UkbT",
+                  "Dt": "2020-03-24",
+                  "Ctry": "IN",
+                  "Cd": "u8EjdLM",
+                  "Amt": {
+                    "Ccy": "INR",
+                    "$value": 785571812.5
+                  },
+                  "Inf": [
+                    "xl9AfCH'8OO7n",
+                    "T9jVToN/ZuGSB9TCX,O2WB"
+                  ]
+                },
+                {
+                  "Tp": "JA-Z-yBs kLEyHAye-uEq4XoGFy",
+                  "Dt": "2020-03-24",
+                  "Ctry": "IN",
+                  "Cd": "W5C",
+                  "Amt": {
+                    "Ccy": "INR",
+                    "$value": 517377076.23
+                  },
+                  "Inf": [
+                    "d"
+                  ]
+                }
+              ]
+            },
+            {
+              "DbtCdtRptgInd": "BOTH",
+              "Authrty": {
+                "Nm": "/O,QdhGm7t0UVLwjrKBsskok:Yxl)Lq6P?WGgLKcnVdIX/s",
+                "Ctry": "IN"
+              },
+              "Dtls": [
+                {
+                  "Tp": "3rHOMElCLStIT.DPcL",
+                  "Dt": "2020-03-24",
+                  "Ctry": "IN",
+                  "Cd": "/tj",
+                  "Amt": {
+                    "Ccy": "INR",
+                    "$value": 886324069.67
+                  },
+                  "Inf": [
+                    "5Q?O Mp?4x-HDiAlWY/o",
+                    "o+b3ExWzD,3iOIkevZ7JZSuKI+pS"
+                  ]
+                },
+                {
+                  "Tp": "m?9.Be/HQvXf2iI2aW:Y1Z4hM,Q dKh",
+                  "Dt": "2020-03-24",
+                  "Ctry": "IN",
+                  "Cd": "qwYmlU20C",
+                  "Amt": {
+                    "Ccy": "INR",
+                    "$value": 361418970.16
+                  },
+                  "Inf": [
+                    "LAAneH3fmATU1x2q)iRIByK,LpAk5Y Gd"
+                  ]
+                }
+              ]
+            }
+          ],
+          "RmtInf": {
+            "Ustrd": [
+              "Remitinfo"
+            ]
+          }
+        }
+      ]
+    }
+  }
+}

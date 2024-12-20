@@ -1,0 +1,113 @@
+{
+  "$value": {
+    "FIToFIPmtCxlReq": {
+      "Assgnmt": {
+        "Id": "Id",
+        "Assgnr": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              }
+            }
+          }
+        },
+        "Assgne": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              }
+            }
+          }
+        },
+        "CreDtTm": "2020-04-21T10:37:00+05:30"
+      },
+      "Undrlyg": [
+        {
+          "TxInf": [
+            {
+              "CxlId": "CxlId",
+              "Case": {
+                "Id": "CaseId",
+                "Cretr": {
+                  "Pty": {
+                    "Nm": "PtyNm"
+                  }
+                }
+              },
+              "OrgnlGrpInf": {
+                "OrgnlMsgId": "OrgnlMsgId",
+                "OrgnlMsgNmId": "OrgnlMsgNmId",
+                "OrgnlCreDtTm": "2020-04-21T10:37:00+05:30"
+              },
+              "OrgnlInstrId": "OrgnlInstrId",
+              "OrgnlEndToEndId": "OrgnlEndToEndId",
+              "OrgnlTxId": "OrgnlTxId",
+              "OrgnlUETR": "d116962e-d3d5-4732-bdf9-1de9be99e2da",
+              "OrgnlClrSysRef": "OrgnlClrSysRef",
+              "OrgnlIntrBkSttlmAmt": {
+                "Ccy": "EUR",
+                "$value": 10.0
+              },
+              "OrgnlIntrBkSttlmDt": "2021-04-26",
+              "CxlRsnInf": [
+                {
+                  "Orgtr": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "Dept": "Dept",
+                      "SubDept": "SubDept",
+                      "StrtNm": "StrtNm",
+                      "BldgNb": "BldgNb",
+                      "BldgNm": "BldgNm",
+                      "Flr": "Flr",
+                      "PstBx": "PstBx",
+                      "Room": "Room",
+                      "PstCd": "PstCd",
+                      "TwnNm": "TwnNm",
+                      "TwnLctnNm": "TwnLctnNm",
+                      "DstrctNm": "DstrctNm",
+                      "CtrySubDvsn": "CtrySubDvsn",
+                      "Ctry": "US"
+                    },
+                    "Id": {
+                      "OrgId": {
+                        "AnyBIC": "TESTCNVTXXX",
+                        "LEI": "UMG8PRBKH3700Z8U8439",
+                        "Othr": [
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Prtry": "Prtry"
+                            },
+                            "Issr": "Issr"
+                          }
+                        ]
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  },
+                  "Rsn": {
+                    "Cd": "AGNT"
+                  },
+                  "AddtlInf": [
+                    "AddtlInf"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

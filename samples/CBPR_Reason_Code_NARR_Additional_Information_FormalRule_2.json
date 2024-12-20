@@ -1,0 +1,142 @@
+{
+  "$value": {
+    "CstmrPmtCxlReq": {
+      "Assgnmt": {
+        "Id": "Nrxo9",
+        "Assgnr": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "8Q"
+              },
+              "LEI": "OIWT669HGEVD19P7R341"
+            }
+          }
+        },
+        "Assgne": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "9ZWW9sDM?"
+              },
+              "LEI": "JAT5E9WRAP9UZ84QKT84"
+            }
+          }
+        },
+        "CreDtTm": "2023-06-13T19:06:57.872"
+      },
+      "Undrlyg": [
+        {
+          "OrgnlPmtInfAndCxl": [
+            {
+              "OrgnlPmtInfId": "OrgnlPmtInfId",
+              "OrgnlGrpInf": {
+                "OrgnlMsgId": "OrgnlMsgId",
+                "OrgnlMsgNmId": "OrgnlMsgNmId",
+                "OrgnlCreDtTm": "2023-06-13T19:07:27.485"
+              },
+              "TxInf": [
+                {
+                  "CxlId": "CxlId",
+                  "Case": {
+                    "Id": "loGFMm16L",
+                    "Cretr": {
+                      "Agt": {
+                        "FinInstnId": {
+                          "BICFI": "TESTCONV",
+                          "ClrSysMmbId": {
+                            "ClrSysId": {
+                              "Cd": "ATBLZ"
+                            },
+                            "MmbId": "oR"
+                          },
+                          "LEI": "AERU2K4HQ2BVRRNTZA78",
+                          "Nm": "9!?Q@W.",
+                          "PstlAdr": {
+                            "TwnNm": "}",
+                            "Ctry": "US"
+                          }
+                        }
+                      }
+                    }
+                  },
+                  "OrgnlInstrId": "OrgnlInstrId",
+                  "OrgnlEndToEndId": "OrgnlEndToEndId",
+                  "OrgnlUETR": "e9baaf2b-58fb-4fc8-adbc-8a0d90bcc6f5",
+                  "OrgnlInstdAmt": {
+                    "Ccy": "USD",
+                    "$value": 73.59
+                  },
+                  "OrgnlReqdExctnDt": {
+                    "Dt": "2023-06-13"
+                  },
+                  "CxlRsnInf": [
+                    {
+                      "Orgtr": {
+                        "Nm": "Nm",
+                        "PstlAdr": {
+                          "Dept": "Dept",
+                          "SubDept": "SubDept",
+                          "StrtNm": "StrtNm",
+                          "BldgNb": "BldgNb",
+                          "BldgNm": "BldgNm",
+                          "Flr": "Flr",
+                          "PstBx": "PstBx",
+                          "Room": "Room",
+                          "PstCd": "PstCd",
+                          "TwnNm": "TwnNm",
+                          "TwnLctnNm": "TwnLctnNm",
+                          "DstrctNm": "DstrctNm",
+                          "CtrySubDvsn": "CtrySubDvsn",
+                          "Ctry": "US"
+                        },
+                        "Id": {
+                          "PrvtId": {
+                            "DtAndPlcOfBirth": {
+                              "BirthDt": "2023-06-13",
+                              "PrvcOfBirth": "PrvcOfBirth",
+                              "CityOfBirth": "CityOfBirth",
+                              "CtryOfBirth": "IM"
+                            },
+                            "Othr": [
+                              {
+                                "Id": "Id",
+                                "SchmeNm": {
+                                  "Cd": "ARNU"
+                                },
+                                "Issr": "Issr"
+                              },
+                              {
+                                "Id": "Id",
+                                "SchmeNm": {
+                                  "Cd": "ARNU"
+                                },
+                                "Issr": "Issr"
+                              }
+                            ]
+                          }
+                        },
+                        "CtryOfRes": "PN"
+                      },
+                      "Rsn": {
+                        "Cd": "UPAY"
+                      }
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

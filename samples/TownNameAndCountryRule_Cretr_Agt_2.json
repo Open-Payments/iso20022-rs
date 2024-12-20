@@ -1,0 +1,122 @@
+{
+  "$value": {
+    "RsltnOfInvstgtn": {
+      "Assgnmt": {
+        "Id": "Id",
+        "Assgnr": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          }
+        },
+        "Assgne": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          }
+        },
+        "CreDtTm": "2020-04-21T10:37:00+05:30"
+      },
+      "Sts": {
+        "Conf": "CNCL"
+      },
+      "CxlDtls": [
+        {
+          "TxInfAndSts": [
+            {
+              "CxlStsId": "CxlStsId",
+              "RslvdCase": {
+                "Id": "Id",
+                "Cretr": {
+                  "Agt": {
+                    "FinInstnId": {
+                      "BICFI": "TESTCNVTXXX",
+                      "ClrSysMmbId": {
+                        "ClrSysId": {
+                          "Cd": "ATBLZ"
+                        },
+                        "MmbId": "MmbId"
+                      },
+                      "LEI": "ANTU6WO6YYAU94PEA133",
+                      "Nm": "Nm",
+                      "PstlAdr": {
+                        "AdrLine": [
+                          "AdrLine"
+                        ]
+                      }
+                    }
+                  }
+                }
+              },
+              "OrgnlGrpInf": {
+                "OrgnlMsgId": "OrgnlMsgId",
+                "OrgnlMsgNmId": "rfby.200.395.87",
+                "OrgnlCreDtTm": "2020-04-21T10:37:00+05:30"
+              },
+              "OrgnlInstrId": "OrgnlInstrId",
+              "OrgnlEndToEndId": "OrgnlEndToEndId",
+              "OrgnlTxId": "OrgnlTxId",
+              "OrgnlClrSysRef": "Xs",
+              "OrgnlUETR": "d116962e-d3d5-4732-bdf9-1de9be99e2da",
+              "CxlStsRsnInf": [
+                {
+                  "Orgtr": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "AdrLine": [
+                        "AdrLine"
+                      ]
+                    },
+                    "Id": {
+                      "PrvtId": {
+                        "DtAndPlcOfBirth": {
+                          "BirthDt": "2021-01-22",
+                          "PrvcOfBirth": "PrvcOfBirth",
+                          "CityOfBirth": "CityOfBirth",
+                          "CtryOfBirth": "US"
+                        },
+                        "Othr": [
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Prtry": "Prtry"
+                            },
+                            "Issr": "Issr"
+                          }
+                        ]
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  },
+                  "Rsn": {
+                    "Cd": "AGNT"
+                  },
+                  "AddtlInf": [
+                    "AddtlInf",
+                    "AddtlInf"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

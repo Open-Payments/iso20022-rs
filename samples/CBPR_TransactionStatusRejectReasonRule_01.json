@@ -1,0 +1,116 @@
+{
+  "$value": {
+    "CstmrPmtStsRpt": {
+      "GrpHdr": {
+        "MsgId": "MsgId",
+        "CreDtTm": "2021-04-28T11:56:35.890",
+        "InitgPty": {
+          "Id": {
+            "OrgId": {
+              "AnyBIC": "TESTCNVT",
+              "LEI": "7437002WC51RDNI14T18",
+              "Othr": [
+                {
+                  "Id": "Id",
+                  "SchmeNm": {
+                    "Prtry": "Prtry"
+                  },
+                  "Issr": "Issr"
+                },
+                {
+                  "Id": "Id",
+                  "SchmeNm": {
+                    "Prtry": "Prtry"
+                  },
+                  "Issr": "Issr"
+                }
+              ]
+            }
+          }
+        },
+        "FwdgAgt": {
+          "FinInstnId": {
+            "BICFI": "TESTCNVT",
+            "ClrSysMmbId": {
+              "ClrSysId": {
+                "Cd": "ATBLZ"
+              },
+              "MmbId": "MmbId"
+            },
+            "LEI": "7437002WC51RDNI14T18"
+          }
+        }
+      },
+      "OrgnlGrpInfAndSts": {
+        "OrgnlMsgId": "OrgnlMsgId",
+        "OrgnlMsgNmId": "OrgnlMsgNmId",
+        "OrgnlCreDtTm": "2021-04-28T11:56:35.892"
+      },
+      "OrgnlPmtInfAndSts": [
+        {
+          "OrgnlPmtInfId": "OrgnlPmtInfId",
+          "TxInfAndSts": [
+            {
+              "OrgnlInstrId": "OrgnlInstrId",
+              "OrgnlEndToEndId": "OrgnlEndToEndId",
+              "OrgnlUETR": "d0afc93f-1add-40f5-9a7e-1f72d9d08c63",
+              "TxSts": "RJCT",
+              "StsRsnInf": [
+                {
+                  "Orgtr": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "Dept": "Dept",
+                      "SubDept": "SubDept",
+                      "StrtNm": "StrtNm",
+                      "BldgNb": "BldgNb",
+                      "BldgNm": "BldgNm",
+                      "Flr": "Flr",
+                      "PstBx": "PstBx",
+                      "Room": "Room",
+                      "PstCd": "PstCd",
+                      "TwnNm": "TwnNm",
+                      "TwnLctnNm": "TwnLctnNm",
+                      "DstrctNm": "DstrctNm",
+                      "CtrySubDvsn": "CtrySubDvsn",
+                      "Ctry": "US"
+                    },
+                    "Id": {
+                      "OrgId": {
+                        "AnyBIC": "TESTCNVT",
+                        "LEI": "7437002WC51RDNI14T18",
+                        "Othr": [
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Cd": "BANK"
+                            },
+                            "Issr": "Issr"
+                          },
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Cd": "BANK"
+                            },
+                            "Issr": "Issr"
+                          }
+                        ]
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  },
+                  "Rsn": {
+                    "Cd": "NARR"
+                  },
+                  "AddtlInf": [
+                    "Value"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

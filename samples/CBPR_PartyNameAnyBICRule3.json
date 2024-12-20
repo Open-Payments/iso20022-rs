@@ -1,0 +1,144 @@
+{
+  "$value": {
+    "RsltnOfInvstgtn": {
+      "Assgnmt": {
+        "Id": "Id",
+        "Assgnr": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          }
+        },
+        "Assgne": {
+          "Agt": {
+            "FinInstnId": {
+              "BICFI": "TESTCNVTXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          }
+        },
+        "CreDtTm": "2020-04-21T10:37:00+05:30"
+      },
+      "Sts": {
+        "Conf": "CNCL"
+      },
+      "CxlDtls": [
+        {
+          "TxInfAndSts": [
+            {
+              "CxlStsId": "CxlStsId",
+              "RslvdCase": {
+                "Id": "Id",
+                "Cretr": {
+                  "Pty": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "Dept": "Dept",
+                      "SubDept": "SubDept",
+                      "StrtNm": "StrtNm",
+                      "BldgNb": "BldgNb",
+                      "BldgNm": "BldgNm",
+                      "Flr": "Flr",
+                      "PstBx": "PstBx",
+                      "Room": "Room",
+                      "PstCd": "PstCd",
+                      "TwnNm": "TwnNm",
+                      "TwnLctnNm": "TwnLctnNm",
+                      "DstrctNm": "DstrctNm",
+                      "CtrySubDvsn": "CtrySubDvsn",
+                      "Ctry": "US"
+                    },
+                    "Id": {
+                      "OrgId": {
+                        "LEI": "ANTU6WO6YYAU94PEA133",
+                        "Othr": [
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Cd": "BANK"
+                            },
+                            "Issr": "Issr"
+                          }
+                        ]
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  }
+                }
+              },
+              "OrgnlGrpInf": {
+                "OrgnlMsgId": "OrgnlMsgId",
+                "OrgnlMsgNmId": "rfby.200.395.87",
+                "OrgnlCreDtTm": "2020-04-21T10:37:00+05:30"
+              },
+              "OrgnlInstrId": "OrgnlInstrId",
+              "OrgnlEndToEndId": "OrgnlEndToEndId",
+              "OrgnlTxId": "OrgnlTxId",
+              "OrgnlClrSysRef": "Xs",
+              "OrgnlUETR": "d116962e-d3d5-4732-bdf9-1de9be99e2da",
+              "CxlStsRsnInf": [
+                {
+                  "Orgtr": {
+                    "Nm": "Nm",
+                    "PstlAdr": {
+                      "Dept": "Dept",
+                      "SubDept": "SubDept",
+                      "StrtNm": "StrtNm",
+                      "BldgNb": "BldgNb",
+                      "BldgNm": "BldgNm",
+                      "Flr": "Flr",
+                      "PstBx": "PstBx",
+                      "Room": "Room",
+                      "PstCd": "PstCd",
+                      "TwnNm": "TwnNm",
+                      "TwnLctnNm": "TwnLctnNm",
+                      "DstrctNm": "DstrctNm",
+                      "CtrySubDvsn": "CtrySubDvsn",
+                      "Ctry": "US"
+                    },
+                    "Id": {
+                      "OrgId": {
+                        "LEI": "UMG8PRBKH3700Z8U8439",
+                        "Othr": [
+                          {
+                            "Id": "Id",
+                            "SchmeNm": {
+                              "Cd": "BANK"
+                            },
+                            "Issr": "Issr"
+                          }
+                        ]
+                      }
+                    },
+                    "CtryOfRes": "US"
+                  },
+                  "Rsn": {
+                    "Cd": "AGNT"
+                  },
+                  "AddtlInf": [
+                    "AddtlInf",
+                    "AddtlInf"
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

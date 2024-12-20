@@ -1,0 +1,14 @@
+{
+  "$value": {
+    "CstmrPmtStsRpt": {
+      "GrpHdr": {
+        "MsgId": "MsgId",
+        "CreDtTm": "2021-04-28T11:56:35.890"
+      },
+      "OrgnlGrpInfAndSts": {
+        "OrgnlMsgId": "OrgnlMsgId",
+        "OrgnlMsgNmId": "OrgnlMsgNmId"
+      }
+    }
+  }
+}

@@ -1,0 +1,827 @@
+{
+  "$value": {
+    "FIToFICstmrCdtTrf": {
+      "GrpHdr": {
+        "MsgId": "MsgId",
+        "CreDtTm": "2010-10-18T12:30:00+01:00",
+        "NbOfTxs": "1",
+        "SttlmInf": {
+          "SttlmMtd": "COVE",
+          "SttlmAcct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "InstgRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "UNMCUS51XXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "InstgRmbrsmntAgtAcct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "InstdRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "PNBPUS6LXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "InstdRmbrsmntAgtAcct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "ThrdRmbrsmntAgt": {
+            "FinInstnId": {
+              "BICFI": "PNBPUS6LXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "ThrdRmbrsmntAgtAcct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          }
+        }
+      },
+      "CdtTrfTxInf": [
+        {
+          "PmtId": {
+            "InstrId": "InstrId",
+            "EndToEndId": "EndToEndId",
+            "TxId": "TxId",
+            "UETR": "a59befaa-8799-4699-88cd-8f4135642dec",
+            "ClrSysRef": "ClrSysRef"
+          },
+          "PmtTpInf": {
+            "InstrPrty": "HIGH",
+            "ClrChanl": "RTGS",
+            "SvcLvl": [
+              {
+                "Cd": "BKTR"
+              },
+              {
+                "Cd": "SDVA"
+              }
+            ],
+            "LclInstrm": {
+              "Prtry": "Prtry"
+            },
+            "CtgyPurp": {
+              "Cd": "BONU"
+            }
+          },
+          "IntrBkSttlmAmt": {
+            "Ccy": "INR",
+            "$value": 116726824.0
+          },
+          "IntrBkSttlmDt": "2020-03-24",
+          "SttlmPrty": "NORM",
+          "SttlmTmIndctn": {
+            "DbtDtTm": "2007-02-22T23:55:00+13:00",
+            "CdtDtTm": "2016-02-29T12:30:00+01:00"
+          },
+          "SttlmTmReq": {
+            "CLSTm": "13:55:00+01:00",
+            "TillTm": "13:55:00+01:00",
+            "FrTm": "13:55:00+01:00",
+            "RjctTm": "13:55:00+01:00"
+          },
+          "InstdAmt": {
+            "Ccy": "USD",
+            "$value": 1723527.0
+          },
+          "XchgRate": 1.79765539,
+          "ChrgBr": "CRED",
+          "ChrgsInf": [
+            {
+              "Amt": {
+                "Ccy": "USD",
+                "$value": 1548.0
+              },
+              "Agt": {
+                "FinInstnId": {
+                  "BICFI": "TESTCNVT333"
+                }
+              }
+            }
+          ],
+          "PrvsInstgAgt1": {
+            "FinInstnId": {
+              "BICFI": "TESTCONVXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "PrvsInstgAgt1Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "PrvsInstgAgt2": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "PrvsInstgAgt2Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "PrvsInstgAgt3": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "PrvsInstgAgt3Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "InstgAgt": {
+            "FinInstnId": {
+              "BICFI": "UNMCUS51XXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12"
+            }
+          },
+          "InstdAgt": {
+            "FinInstnId": {
+              "BICFI": "UNMCUS51XXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12"
+            }
+          },
+          "IntrmyAgt1": {
+            "FinInstnId": {
+              "BICFI": "PNBPUS6LXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "IntrmyAgt1Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "IntrmyAgt2": {
+            "FinInstnId": {
+              "BICFI": "PNBPUS6LXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "IntrmyAgt2Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "IntrmyAgt3": {
+            "FinInstnId": {
+              "BICFI": "PNBPUS6LXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "StrtNm",
+                "BldgNb": "BldgNb",
+                "BldgNm": "BldgNm",
+                "Flr": "Flr",
+                "PstBx": "PstBx",
+                "Room": "Room",
+                "PstCd": "PstCd",
+                "TwnNm": "TwnNm",
+                "TwnLctnNm": "TwnLctnNm",
+                "DstrctNm": "DstrctNm",
+                "CtrySubDvsn": "CtrySubDvsn",
+                "Ctry": "US"
+              }
+            }
+          },
+          "IntrmyAgt3Acct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            },
+            "Tp": {
+              "Cd": "CASH"
+            },
+            "Ccy": "USD",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "EMAL"
+              },
+              "Id": "12345"
+            }
+          },
+          "UltmtDbtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "US"
+            },
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCONV",
+                "LEI": "VALUEFORLEI12345NO12",
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "InitgPty": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "US"
+            },
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCONV",
+                "LEI": "VALUEFORLEI12345NO12",
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "Dbtr": {
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCONV",
+                "LEI": "VALUEFORLEI12345NO12",
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "DbtrAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": "Prtry"
+                },
+                "Issr": "Issr"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "DbtrAgt": {
+            "FinInstnId": {
+              "BICFI": "ISIAXBKKU2T",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "4F1tfC1"
+              },
+              "LEI": "NPT51I3QZKU7BWYHLA99",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "HanFord Street",
+                "BldgNb": "947",
+                "BldgNm": "Kingston",
+                "Flr": "First",
+                "PstBx": "5678",
+                "Room": "2",
+                "PstCd": "85002",
+                "TwnNm": "Duncan",
+                "TwnLctnNm": "Gila Bend",
+                "DstrctNm": "Duncan",
+                "CtrySubDvsn": "Grand Canyon",
+                "Ctry": "US"
+              }
+            }
+          },
+          "DbtrAgtAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": "Prtry"
+                },
+                "Issr": "Issr"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "CdtrAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONVXXX",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "MmbId"
+              },
+              "LEI": "VALUEFORLEI12345NO12",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "StrtNm": "HanFord Street",
+                "BldgNb": "947",
+                "BldgNm": "Kingston",
+                "Flr": "First",
+                "PstBx": "5678",
+                "Room": "2",
+                "PstCd": "85002",
+                "TwnNm": "Duncan",
+                "TwnLctnNm": "Gila Bend",
+                "DstrctNm": "Duncan",
+                "CtrySubDvsn": "Grand Canyon",
+                "Ctry": "US"
+              }
+            },
+            "BrnchId": {
+              "Id": "Id"
+            }
+          },
+          "CdtrAgtAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": "Prtry"
+                },
+                "Issr": "Issr"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "Cdtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "AdrLine": [
+                "Value"
+              ]
+            },
+            "Id": {
+              "PrvtId": {
+                "DtAndPlcOfBirth": {
+                  "BirthDt": "2020-03-24",
+                  "PrvcOfBirth": "PrvcOfBirth",
+                  "CityOfBirth": "CityOfBirth",
+                  "CtryOfBirth": "IN"
+                },
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Prtry": "Prtry"
+                    },
+                    "Issr": "Issr"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "IN"
+          },
+          "CdtrAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": "Prtry"
+                },
+                "Issr": "Issr"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "Nm",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "UltmtCdtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "StrtNm": "StrtNm",
+              "BldgNb": "BldgNb",
+              "BldgNm": "BldgNm",
+              "Flr": "Flr",
+              "PstBx": "PstBx",
+              "Room": "Room",
+              "PstCd": "PstCd",
+              "TwnNm": "TwnNm",
+              "TwnLctnNm": "TwnLctnNm",
+              "DstrctNm": "DstrctNm",
+              "CtrySubDvsn": "CtrySubDvsn",
+              "Ctry": "US"
+            },
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCONV",
+                "LEI": "VALUEFORLEI12345NO12",
+                "Othr": [
+                  {
+                    "Id": "Id",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "InstrForCdtrAgt": [
+            {
+              "Cd": "HOLD",
+              "InstrInf": "InstrInf"
+            }
+          ],
+          "InstrForNxtAgt": [
+            {
+              "InstrInf": "InstrInf"
+            }
+          ],
+          "Purp": {
+            "Prtry": "INR"
+          },
+          "RgltryRptg": [
+            {
+              "DbtCdtRptgInd": "CRED",
+              "Authrty": {
+                "Nm": "Nm",
+                "Ctry": "IN"
+              },
+              "Dtls": [
+                {
+                  "Inf": [
+                    "Inf"
+                  ]
+                }
+              ]
+            }
+          ],
+          "RltdRmtInf": [
+            {
+              "RmtId": "RmtId"
+            }
+          ]
+        }
+      ]
+    }
+  }
+}

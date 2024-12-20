@@ -1,0 +1,225 @@
+{
+  "$value": {
+    "FIToFICstmrCdtTrf": {
+      "GrpHdr": {
+        "MsgId": "A4JV)j1iTJpA90xrEG/-AsR/c/Ed2hZ",
+        "CreDtTm": "2010-10-18T12:30:00+01:00",
+        "NbOfTxs": "1",
+        "SttlmInf": {
+          "SttlmMtd": "INDA",
+          "SttlmAcct": {
+            "Id": {
+              "IBAN": "BE68539007547034"
+            }
+          }
+        }
+      },
+      "CdtTrfTxInf": [
+        {
+          "PmtId": {
+            "InstrId": "vi-l'zjT9xLC",
+            "EndToEndId": "yHEiChD 3I1npPO.k,5w.9mg?hf",
+            "TxId": ")7BMW",
+            "UETR": "a59befaa-8799-4699-88cd-8f4135642dec",
+            "ClrSysRef": "Tv6?a)RzcsXx-jy"
+          },
+          "PmtTpInf": {
+            "InstrPrty": "HIGH",
+            "ClrChanl": "RTGS",
+            "SvcLvl": [
+              {
+                "Cd": "BKTR"
+              },
+              {
+                "Cd": "BKTR"
+              }
+            ],
+            "LclInstrm": {
+              "Prtry": ",:l?9QRBNS k+OIgv3soYy,F4MAI/mlzn"
+            },
+            "CtgyPurp": {
+              "Cd": "BONU"
+            }
+          },
+          "IntrBkSttlmAmt": {
+            "Ccy": "INR",
+            "$value": 116726824.0
+          },
+          "IntrBkSttlmDt": "2020-03-24",
+          "SttlmPrty": "NORM",
+          "SttlmTmIndctn": {
+            "DbtDtTm": "2010-10-18T12:30:00+01:00",
+            "CdtDtTm": "2010-10-18T12:30:00+01:00"
+          },
+          "InstdAmt": {
+            "Ccy": "USD",
+            "$value": 1723527.0
+          },
+          "XchgRate": 1.79765539,
+          "ChrgBr": "DEBT",
+          "InstgAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "2,sWA."
+              },
+              "LEI": "M3C2CQUOSOTBNHLYU912"
+            }
+          },
+          "InstdAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "26Gr9YcHJ xn w"
+              },
+              "LEI": "ANTU6WO6YYAU94PEA133"
+            }
+          },
+          "Dbtr": {
+            "Id": {
+              "OrgId": {
+                "AnyBIC": "TESTCONV",
+                "LEI": "YXTHZVOGLZM95IBRLV34",
+                "Othr": [
+                  {
+                    "Id": "Dd,zl",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "SYR"
+                  },
+                  {
+                    "Id": "xN0+5P)' cq5l JXOdpZ)9A.,2",
+                    "SchmeNm": {
+                      "Cd": "BANK"
+                    },
+                    "Issr": "Px-2Ar8XEpF80J'4,'DY)"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "US"
+          },
+          "DbtrAcct": {
+            "Id": {
+              "Othr": {
+                "Id": "1234567890",
+                "SchmeNm": {
+                  "Prtry": ".pTIUDUb1"
+                },
+                "Issr": "vKHMC5n9D6upYncqfNo+:avGOcaiQlOPyh"
+              }
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": "yQeMSFF36vo+18YDb9-B1KM077Ga/6xx'uUHEp6J )lq-z'T8Rn8LOwMWzhFAmb",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          },
+          "DbtrAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "8Vr+h"
+              },
+              "LEI": "732D71RFF41621GQSH95",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "AdrLine": [
+                  "Value"
+                ]
+              }
+            }
+          },
+          "CdtrAgt": {
+            "FinInstnId": {
+              "BICFI": "TESTCONV",
+              "ClrSysMmbId": {
+                "ClrSysId": {
+                  "Cd": "ATBLZ"
+                },
+                "MmbId": "9KZTjgxyL1Bd7pijAR"
+              },
+              "LEI": "SS4KEPFNFAFR6TVMRR55",
+              "Nm": "Nm",
+              "PstlAdr": {
+                "AdrLine": [
+                  "Value"
+                ]
+              }
+            },
+            "BrnchId": {
+              "Id": "kUK?/jHt7L7rE5j,j0"
+            }
+          },
+          "Cdtr": {
+            "Nm": "Nm",
+            "PstlAdr": {
+              "AdrLine": [
+                "Value"
+              ]
+            },
+            "Id": {
+              "PrvtId": {
+                "DtAndPlcOfBirth": {
+                  "BirthDt": "2020-03-24",
+                  "PrvcOfBirth": "PrvcOfBirth",
+                  "CityOfBirth": "CityOfBirth",
+                  "CtryOfBirth": "TG"
+                },
+                "Othr": [
+                  {
+                    "Id": "8DxH3O",
+                    "SchmeNm": {
+                      "Prtry": "yE"
+                    },
+                    "Issr": "STyBUQYjjWk"
+                  },
+                  {
+                    "Id": "6",
+                    "SchmeNm": {
+                      "Prtry": "Ws+R1ao"
+                    },
+                    "Issr": "2nbv8uOs'9?yS"
+                  }
+                ]
+              }
+            },
+            "CtryOfRes": "IN"
+          },
+          "CdtrAcct": {
+            "Id": {
+              "IBAN": "AL35202111090000000001234567"
+            },
+            "Tp": {
+              "Cd": "CISH"
+            },
+            "Ccy": "INR",
+            "Nm": ",xcX.N,O/kO'.nA3Fi0Ir,4GVvDJ)-k2/OM+HYxs x",
+            "Prxy": {
+              "Tp": {
+                "Cd": "TELE"
+              },
+              "Id": "Id"
+            }
+          }
+        }
+      ]
+    }
+  }
+}

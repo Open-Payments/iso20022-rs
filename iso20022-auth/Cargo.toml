@@ -1,0 +1,34 @@
+[package]
+name = "open-payments-iso20022-auth"
+version = "1.0.9"
+edition = "2021"
+exclude = ["/xsd", "/xml", ".DS_Store", "/target", ".vscode", "generate.sh"]
+authors = ["Open Payments Engineering <team@openpayments.tech>"]
+license = "Apache-2.0"
+description = "Open Payments - Message Parsing Library - ISO20022 AUTH"
+readme = "../README.md"
+homepage = "https://github.com/Open-Payments/iso20022-rs"
+repository = "https://github.com/Open-Payments/iso20022-rs"
+keywords = ["financial", "payments", "message", "iso20022"]
+categories = ["data-structures", "development-tools", "finance", "parsing", "parser-implementations"]
+
+
+[dependencies]
+iso20022-common = {path = "../iso20022-common", version = "1.0.9" }
+serde = { version = "1.0", features = ["derive"], optional = true }
+regex = "1.11.1"
+rand = "0.8"
+
+[features]
+default = []
+derive_all = ["derive_serde", "derive_debug", "derive_default", "derive_partial_eq", "derive_clone"]
+derive_serde = ["iso20022-common/derive_serde", "serde"]
+derive_debug = ["iso20022-common/derive_debug"]
+derive_default = ["iso20022-common/derive_default"]
+derive_partial_eq = ["iso20022-common/derive_partial_eq"]
+derive_clone = ["iso20022-common/derive_clone"]
+
+[package.metadata.docs.rs]
+all-features = true
+targets = ["x86_64-unknown-linux-gnu"]
+rustdoc-args = ["--generate-link-to-definition"]

@@ -72,7 +72,7 @@
                   "OrgnlEndToEndId": "OrgnlEndToEndId",
                   "OrgnlUETR": "e9baaf2b-58fb-4fc8-adbc-8a0d90bcc6f5",
                   "OrgnlInstdAmt": {
-                    "Ccy": "USD",
+                    "@Ccy": "USD",
                     "$value": 73.59
                   },
                   "OrgnlReqdExctnDt": {

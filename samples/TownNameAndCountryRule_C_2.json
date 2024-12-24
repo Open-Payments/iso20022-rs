@@ -167,7 +167,7 @@
               "Amt": {
                 "EqvtAmt": {
                   "Amt": {
-                    "Ccy": "INR",
+                    "@Ccy": "INR",
                     "$value": 970507463.38
                   },
                   "CcyOfTrf": "USD"
@@ -306,7 +306,7 @@
                     {
                       "Dt": "2021-04-29",
                       "Amt": {
-                        "Ccy": "INR",
+                        "@Ccy": "INR",
                         "$value": 1040165046.06
                       },
                       "Inf": [

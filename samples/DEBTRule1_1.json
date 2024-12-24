@@ -194,7 +194,7 @@
             }
           },
           "IntrBkSttlmAmt": {
-            "Ccy": "INR",
+            "@Ccy": "INR",
             "$value": 1000.0
           },
           "IntrBkSttlmDt": "2020-03-24",
@@ -204,7 +204,7 @@
             "CdtDtTm": "2010-10-18T12:30:00+01:00"
           },
           "InstdAmt": {
-            "Ccy": "INR",
+            "@Ccy": "INR",
             "$value": 100.0
           },
           "XchgRate": 1.79765539,
@@ -212,7 +212,7 @@
           "ChrgsInf": [
             {
               "Amt": {
-                "Ccy": "INR",
+                "@Ccy": "INR",
                 "$value": 116.0
               },
               "Agt": {
@@ -893,7 +893,7 @@
                   "Ctry": "IN",
                   "Cd": "u8EjdLM",
                   "Amt": {
-                    "Ccy": "INR",
+                    "@Ccy": "INR",
                     "$value": 785571812.5
                   },
                   "Inf": [
@@ -907,7 +907,7 @@
                   "Ctry": "IN",
                   "Cd": "W5C",
                   "Amt": {
-                    "Ccy": "INR",
+                    "@Ccy": "INR",
                     "$value": 517377076.23
                   },
                   "Inf": [
@@ -929,7 +929,7 @@
                   "Ctry": "IN",
                   "Cd": "/tj",
                   "Amt": {
-                    "Ccy": "INR",
+                    "@Ccy": "INR",
                     "$value": 886324069.67
                   },
                   "Inf": [
@@ -943,7 +943,7 @@
                   "Ctry": "IN",
                   "Cd": "qwYmlU20C",
                   "Amt": {
-                    "Ccy": "INR",
+                    "@Ccy": "INR",
                     "$value": 361418970.16
                   },
                   "Inf": [

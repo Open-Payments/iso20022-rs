@@ -1,0 +1,32 @@
+name: Publish Crates
+
+on:
+  push:
+    tags:
+      - '*'
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      
+      - name: Install Rust
+        uses: dtolnay/rust-toolchain@stable
+      
+      - name: Cache dependencies
+        uses: Swatinem/rust-cache@v2
+
+      - name: Install cargo-release
+        run: cargo install cargo-release
+      
+      - name: Publish crates
+        env:
+          CARGO_REGISTRY_TOKEN: ${{ secrets.CARGO_REGISTRY_TOKEN }}
+        run: |
+          cargo release publish --execute --no-confirm --workspace
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          generate_release_notes: true

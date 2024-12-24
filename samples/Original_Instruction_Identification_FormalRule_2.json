@@ -37,7 +37,7 @@
             {
               "NtryRef": "Entry Ref",
               "Amt": {
-                "Ccy": "INR",
+                "@Ccy": "INR",
                 "$value": 100.0
               },
               "CdtDbtInd": "CRDT",
@@ -65,7 +65,7 @@
                         "InstrId": "I/nstrId"
                       },
                       "Amt": {
-                        "Ccy": "INR",
+                        "@Ccy": "INR",
                         "$value": 143.0
                       },
                       "CdtDbtInd": "CRDT",

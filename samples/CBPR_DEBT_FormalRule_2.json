@@ -42,7 +42,7 @@
             }
           },
           "IntrBkSttlmAmt": {
-            "Ccy": "INR",
+            "@Ccy": "INR",
             "$value": 116726824.0
           },
           "IntrBkSttlmDt": "2020-03-24",
@@ -52,7 +52,7 @@
             "CdtDtTm": "2010-10-18T12:30:00+01:00"
           },
           "InstdAmt": {
-            "Ccy": "USD",
+            "@Ccy": "USD",
             "$value": 1723527.0
           },
           "XchgRate": 1.79765539,

@@ -76,7 +76,7 @@
               "OrgnlUETR": "d116962e-d3d5-4732-bdf9-1de9be99e2da",
               "OrgnlClrSysRef": "OrgnlClrSysRef",
               "OrgnlIntrBkSttlmAmt": {
-                "Ccy": "EUR",
+                "@Ccy": "EUR",
                 "$value": 10.0
               },
               "OrgnlIntrBkSttlmDt": "2021-04-26",

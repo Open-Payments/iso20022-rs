@@ -182,7 +182,7 @@
             }
           },
           "IntrBkSttlmAmt": {
-            "Ccy": "INR",
+            "@Ccy": "INR",
             "$value": 116726824.0
           },
           "IntrBkSttlmDt": "2020-03-24",
@@ -198,7 +198,7 @@
             "RjctTm": "13:55:00+01:00"
           },
           "InstdAmt": {
-            "Ccy": "USD",
+            "@Ccy": "USD",
             "$value": 1723527.0
           },
           "XchgRate": 1.79765539,
@@ -206,7 +206,7 @@
           "ChrgsInf": [
             {
               "Amt": {
-                "Ccy": "USD",
+                "@Ccy": "USD",
                 "$value": 1548.0
               },
               "Agt": {
